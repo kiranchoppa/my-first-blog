@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .models import Post
+from .models import Post, Person
 from django.contrib.auth.models import User
 
 
